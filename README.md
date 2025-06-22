@@ -17,12 +17,6 @@ An interactive sales dashboard built using **Streamlit**, **Pandas**, and **Plot
 
 ---
 
-##  Live Demo
-
-> 🔗 _Add your Streamlit Cloud deployment link here once deployed_
-
----
-
 ## 🛠️ Getting Started
 
 ### 1. Clone the repository
