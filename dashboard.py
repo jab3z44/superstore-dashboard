@@ -6,7 +6,6 @@ import plotly.express as px
 # Page Configuration
 st.set_page_config(
     page_title="Superstore Dashboard",
-    page_icon="🛍️",
     layout="wide"
 )
 
