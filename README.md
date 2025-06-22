@@ -22,7 +22,7 @@ An interactive sales dashboard built using **Streamlit**, **Pandas**, and **Plot
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/superstore-dashboard.git
+git clone https://github.com/jab3z44/superstore-dashboard.git
 cd superstore-dashboard
 
 ### 2. Install Dependencies
