@@ -1,4 +1,14 @@
-python 
-streamlit
-pandas
-plotly
+programming language 
+   -python 
+
+libraries
+ 1.streamlit
+   -for interactive web dashboard
+ 2.pandas
+   -Reads and processes the CSV data, hndles filtering and aggregations
+ 3.plotly
+   -Genertes interactive visual charts
+
+Dataset
+  Kaggle Superstore Dataset
+
