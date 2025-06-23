@@ -1,14 +1,37 @@
-programming language 
-   -python 
+Tools and Libraries Used
 
-libraries
- 1.streamlit
-   -for interactive web dashboard
- 2.pandas
-   -Reads and processes the CSV data, hndles filtering and aggregations
- 3.plotly
-   -Genertes interactive visual charts
+###  Programming Language
+- Python
 
-Dataset
-  Kaggle Superstore Dataset
+---
+
+### Python Libraries
+
+| Library      | Purpose                                                                 |
+|--------------|-------------------------------------------------------------------------|
+| `streamlit`  | Creates the interactive web dashboard (UI and app logic combined)       |
+| `pandas`     | Reads and processes the Superstore dataset; filtering and aggregation   |
+| `plotly`     | Builds interactive visualizations (bar charts, line charts, etc.)       |
+
+---
+
+### Dataset
+
+- **Superstore Dataset**  
+  Source: [Kaggle - Superstore Dataset](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+
+---
+
+### 🛠️ Development & Deployment Tools
+
+| Tool               | Role                                                               
+|--------------------|-------------------------------------------------------------------
+| **VS Code** (or any code editor) | Writing and debugging code                          
+| **Git**            | Version control to track and manage code changes                   
+| **GitHub**         | Hosting the project repository online                              
+
+
+---
+
+
 
